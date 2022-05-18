@@ -1,0 +1,3 @@
+wyatt = "Gay"
+
+print(wyatt)
