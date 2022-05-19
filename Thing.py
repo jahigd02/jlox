@@ -1,3 +1,0 @@
-wyatt = "Gay"
-
-print(wyatt)
